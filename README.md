@@ -1,3 +1,5 @@
+![Image](https://media.licdn.com/dms/image/D5612AQGAhR4CtFg3Vw/article-cover_image-shrink_720_1280/0/1703904607394?e=2147483647&v=beta&t=S_16IBUesTVZYDd8h1tJCWS_CZwC5jLrLafoUNuJMUw)
+
 # CS6910_Assignment3
 The goal of this assignment is threefold: (i) learn how to model sequence-to-sequence learning problems using Recurrent Neural Networks (ii) compare different cells such as vanilla RNN, LSTM and GRU (iii) understand how attention networks overcome the limitations of vanilla seq2seq models (iv) understand the importance of Transformers in the context of machine transliteration
 and NLP in general
