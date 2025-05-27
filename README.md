@@ -1,4 +1,4 @@
-# CS6910_Assignment3
+# DL-CS6910: Assignment3
 
 ![Image](https://media.licdn.com/dms/image/D5612AQGAhR4CtFg3Vw/article-cover_image-shrink_720_1280/0/1703904607394?e=2147483647&v=beta&t=S_16IBUesTVZYDd8h1tJCWS_CZwC5jLrLafoUNuJMUw)
 
